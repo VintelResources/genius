@@ -1,0 +1,11 @@
+{
+  "name": "Little Genius",
+  "description": "An all-in-one adaptive learning platform catering to all age groups from kindergarten to university, powered by advanced AI tutoring.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

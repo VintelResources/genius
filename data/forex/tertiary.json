@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In technical analysis, what does a 'Divergence' between price action and an RSI indicator typically suggest?",
+    "options": [
+      "The trend is strengthening significantly",
+      "A potential trend reversal or loss of momentum",
+      "The market is in a perfect state of equilibrium",
+      "That volatility has dropped to zero"
+    ],
+    "correct": "A potential trend reversal or loss of momentum"
+  },
+  {
+    "question": "What is the primary role of a 'Central Bank' in influencing Forex markets?",
+    "options": [
+      "To set retail broker commissions",
+      "To manage interest rates and control inflation, directly impacting currency value",
+      "To guarantee all individual traders profit",
+      "To execute all HFT (High-Frequency Trading) orders"
+    ],
+    "correct": "To manage interest rates and control inflation, directly impacting currency value"
+  },
+  {
+    "question": "Which of these best describes 'Carry Trade' in Forex?",
+    "options": [
+      "Buying a currency with a high interest rate and selling one with a low interest rate",
+      "Trading only during the London session",
+      "Exchanging physical currency at a bank",
+      "Using only technical indicators without fundamental analysis"
+    ],
+    "correct": "Buying a currency with a high interest rate and selling one with a low interest rate"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Who was the first President of Zambia?",
+    "options": ["Kenneth Kaunda", "Frederick Chiluba", "Levy Mwanawasa", "Michael Sata"],
+    "correct": "Kenneth Kaunda"
+  },
+  {
+    "question": "In what year did Zambia gain independence?",
+    "options": ["1960", "1964", "1968", "1972"],
+    "correct": "1964"
+  }
+]

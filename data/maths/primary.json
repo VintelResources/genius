@@ -1,0 +1,9 @@
+[
+  {
+    "category": "Primary",
+    "subject": "Mathematics",
+    "question": "What is 15 + 27?",
+    "options": ["32", "42", "52", "62"],
+    "correct": "42"
+  }
+]
